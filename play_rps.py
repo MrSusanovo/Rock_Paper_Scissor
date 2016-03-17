@@ -1,4 +1,4 @@
-import rps_test.py
+import rps_test as rps
 #how to test this game
 
 #first generate a series of R(rocck) P(paper) S(scissor) command
